@@ -61,7 +61,7 @@ Meskipun selisihnya sangat tipis, Cabang B berada di posisi terendah baik dari s
 ### 2. Kategori Produk dengan Penjualan Terbesar
 Insight:
 Food and Beverages menjadi kategori produk dengan penjualan tertinggi (56.145), sedangkan Health and Beauty mencatat penjualan terendah (49.194).
-
+![Dashboard](![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/8eb4ec931abd356cd7bc6ca9337df0ea8b87efc5/penjualan%20percabang.png))
 Rekomendasi:
 Untuk mendongkrak penjualan kategori Health and Beauty, supermarket dapat menjalankan beberapa strategi — seperti memberlakukan diskon berkala pada produk-produk pilihan, menyediakan tester produk agar pelanggan dapat mencoba sebelum membeli, serta menempatkan produk Health and Beauty di lokasi yang lebih strategis dan mudah terlihat di dalam toko.
 
