@@ -92,7 +92,7 @@ Ketiga metode pembayaran digunakan secara merata oleh pelanggan, menunjukkan bah
 ### 6. Rating Kepuasan Pelanggan per Cabang
 Insight:
 Cabang A dan C memiliki rating kepuasan tertinggi (masing-masing 7.0 dan 7.1), sedangkan Cabang B memiliki rating terendah (6.8). Ini sejalan dengan performa penjualan Cabang B yang juga paling rendah.
-![Dashboard]()
+![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/effa0e4315af23225301fadb8c1126b935c331b8/rating%20kepuasan.png)
 
 **Rekomendasi:**
 Cabang B memiliki rating kepuasan terendah (6.8) dibanding Cabang A (7.0) dan Cabang C (7.1), yang sejalan dengan performa penjualannya yang juga paling rendah. Hal ini mengindikasikan adanya korelasi antara kepuasan pelanggan dan penjualan. Untuk meningkatkan rating kepuasan di Cabang B, supermarket dapat melakukan evaluasi rutin terhadap kualitas pelayanan, meningkatkan pelatihan staf, serta membuka saluran feedback bagi pelanggan agar permasalahan dapat diidentifikasi dan ditangani dengan cepat.
