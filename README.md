@@ -85,13 +85,14 @@ Meskipun jumlah Member dan Non-Member hampir seimbang, mempertahankan dan menumb
 ### 5. Metode Pembayaran
 Insight:
 Ketiga metode pembayaran digunakan secara merata — Ewallet (34.5%), Cash (34.4%), dan Credit Card (31.1%). Credit Card memiliki penggunaan paling rendah dibanding dua metode lainnya.
-
+![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/290b5a02fb1d4b39bca62368f00fdab369ae9d8e/metode%20pembayaran.png)
 Rekomendasi:
 Ketiga metode pembayaran digunakan secara merata oleh pelanggan, menunjukkan bahwa supermarket sudah memiliki sistem pembayaran yang cukup baik. Namun penggunaan Credit Card sedikit lebih rendah dibanding Ewallet dan Cash. Untuk meningkatkan penggunaan Credit Card, supermarket dapat menjalin kerjasama dengan bank atau penyedia kartu kredit untuk menawarkan cashback atau cicilan 0% pada transaksi tertentu, sehingga pelanggan lebih terdorong untuk menggunakan metode pembayaran ini.
 
 ### 6. Rating Kepuasan Pelanggan per Cabang
 Insight:
 Cabang A dan C memiliki rating kepuasan tertinggi (masing-masing 7.0 dan 7.1), sedangkan Cabang B memiliki rating terendah (6.8). Ini sejalan dengan performa penjualan Cabang B yang juga paling rendah.
+![Dashboard]()
 
 **Rekomendasi:**
 Cabang B memiliki rating kepuasan terendah (6.8) dibanding Cabang A (7.0) dan Cabang C (7.1), yang sejalan dengan performa penjualannya yang juga paling rendah. Hal ini mengindikasikan adanya korelasi antara kepuasan pelanggan dan penjualan. Untuk meningkatkan rating kepuasan di Cabang B, supermarket dapat melakukan evaluasi rutin terhadap kualitas pelayanan, meningkatkan pelatihan staf, serta membuka saluran feedback bagi pelanggan agar permasalahan dapat diidentifikasi dan ditangani dengan cepat.
