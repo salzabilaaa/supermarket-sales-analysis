@@ -53,7 +53,7 @@ Rata-rata Penjualan per Transaksi = 322,97
 ### 1. Performa Penjualan per Cabang
 Insight:
 Cabang C mencatat penjualan tertinggi sebesar 110.569, diikuti Cabang A (106.200) dan Cabang B (106.198). Selisih antara Cabang A dan B sangat tipis, namun Cabang B berada di posisi terendah.
-![main] (penjualan percabang.png)
+![main](penjualan percabang.png)
 
 Rekomendasi:
 Meskipun selisihnya sangat tipis, Cabang B berada di posisi terendah baik dari sisi penjualan maupun rating kepuasan pelanggan. Untuk meningkatkan performa Cabang B, disarankan untuk memperbaiki kualitas pelayanan dan memberlakukan program diskon pada produk-produk tertentu guna menarik lebih banyak pelanggan
