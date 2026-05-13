@@ -68,6 +68,7 @@ Untuk mendongkrak penjualan kategori Health and Beauty, supermarket dapat menjal
 ### 3. Pola Penjualan Berdasarkan Waktu
 Insight:
 Penjualan tertinggi terjadi di bulan Januari (116.292), kemudian turun signifikan di Februari (97.219), dan kembali naik di Maret (109.456).
+![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/d7235171fb112522967b0de9bbc9119383d0fb2c/pola%20penjualan%20perbulan.png)
 
 Rekomendasi:
 Penjualan mengalami penurunan di bulan Februari dan kembali naik di bulan Maret. Pola ini mengindikasikan adanya fluktuasi permintaan pelanggan antar bulan. Untuk mengantisipasi penurunan di bulan Februari, supermarket dapat menjalankan program promosi khusus seperti diskon, bundling produk, atau event belanja tematik guna mendorong minat pelanggan untuk berbelanja lebih banyak.
