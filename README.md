@@ -62,6 +62,7 @@ Meskipun selisihnya sangat tipis, Cabang B berada di posisi terendah baik dari s
 Insight:
 Food and Beverages menjadi kategori produk dengan penjualan tertinggi (56.145), sedangkan Health and Beauty mencatat penjualan terendah (49.194).
 ![Dashboard](![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/8eb4ec931abd356cd7bc6ca9337df0ea8b87efc5/penjualan%20percabang.png))
+
 Rekomendasi:
 Untuk mendongkrak penjualan kategori Health and Beauty, supermarket dapat menjalankan beberapa strategi — seperti memberlakukan diskon berkala pada produk-produk pilihan, menyediakan tester produk agar pelanggan dapat mencoba sebelum membeli, serta menempatkan produk Health and Beauty di lokasi yang lebih strategis dan mudah terlihat di dalam toko.
 
@@ -76,6 +77,7 @@ Penjualan mengalami penurunan di bulan Februari dan kembali naik di bulan Maret.
 ### 4. Segmen Pelanggan
 Insight:
 Segmen Member dan Normal hampir seimbang — Member 50.1% dan Normal 49.9%. Tidak ada dominasi signifikan dari salah satu segmen.
+![Dashboard](https://github.com/salzabilaaa/supermarket-sales-analysis/blob/e1a3a5735fb032746f97f1602dd0c61b58c51e17/segmen%20pelanggan.png)
 
 Rekomendasi:
 Meskipun jumlah Member dan Non-Member hampir seimbang, mempertahankan dan menumbuhkan segmen Member tetap menjadi prioritas karena pelanggan Member cenderung lebih loyal. Supermarket dapat memperkuat program loyalitas dengan memberikan reward poin, diskon eksklusif, atau penawaran khusus ketika pelanggan mencapai jumlah pembelian tertentu, sehingga mendorong pelanggan Non-Member untuk bergabung menjadi Member
